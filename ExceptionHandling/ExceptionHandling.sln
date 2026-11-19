@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{0CB8CD87-277B-4C83-A6E0-83CCF98A1CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB8CD87-277B-4C83-A6E0-83CCF98A1CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB8CD87-277B-4C83-A6E0-83CCF98A1CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB8CD87-277B-4C83-A6E0-83CCF98A1CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB8CD87-277B-4C83-A6E0-83CCF98A1CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
